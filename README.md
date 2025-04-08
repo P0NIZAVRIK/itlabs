@@ -11,7 +11,7 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/P0NIZAVRIK/itlabs.git
-   cd itlabs
+   cd test_work
    ```
 
 2. Установите зависимости:
